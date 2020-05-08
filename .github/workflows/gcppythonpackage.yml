@@ -27,4 +27,4 @@ jobs:
     
     - name: Test with pytest
       run: |
-        /home/bhavana2297/.local/bin/pytest test_SEP.py
+        /home/bhavanagopalachary3/.local/bin/pytest test_SEP.py
